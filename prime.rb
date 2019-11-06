@@ -3,4 +3,9 @@ def prime?(number)
     return false
   end
   
+  i = 0
+  while i < number do
+    
+    i += 1
+  end
 end
